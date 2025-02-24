@@ -3,7 +3,13 @@
 
 # 🚗 **Driving Style Profiling Using Deep Autoencoders**  
 
-This repository contains an **AI-driven vehicle profiling system** that leverages **deep autoencoders (CNN & LSTM-based)** to analyze and classify driving behavior. The model is designed to detect **driving style irregularities** and **identify deviations from a driver's usual pattern**.  
+Official Implementation of the Research Paper
+
+📄 Vehicle Profiling Using Deep Autoencoders for Safety Applications
+
+📌 About This Project
+
+This repository contains the official implementation of our research paper, which focuses on using deep autoencoders to analyze and classify driving behavior. The goal is to develop driver-specific profiles and detect irregular driving patterns across different road conditions, including urban and highway driving scenarios.
 
 🔹 **Goal**: Develop AI-based driving profiles for each user and assess driving irregularities in different road conditions.  
 🔹 **Techniques Used**: **CNN & LSTM Autoencoders**, Time-Series Data Analysis, Reconstruction Loss Thresholding.  
@@ -122,7 +128,7 @@ Contributions are welcome! Feel free to:
 This work is based on:  
 📄 **"Driving Style Profiling Using Deep Autoencoders for Safety Applications in Urban and Highway Scenarios"**  
 
-🔗 **Read the Paper**: [Vehicle Profiling Paper](#)  
+🔗 **Read the Paper**: [Vehicle Profiling Paper](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.researchgate.net/publication/382924724_Driving_Style_Profiling_Using_Deep_Autoencoders_for_Safety_Applications_in_Urban_and_Highway_Scenarios&ved=2ahUKEwjYsuKkwNuLAxWpLVkFHR4qME0QFnoECBMQAQ&usg=AOvVaw2hdZGnT__hYW81XeV_lTTT)  
 
 ---
 
